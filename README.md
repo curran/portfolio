@@ -9,6 +9,8 @@ Greetings! This is the portfolio of Curran Kelleher.
 
 2012 Work
 
+ * [Introduction to Computer Programming and Interactive Graphics](http://curransoft.com/interactivegraphics/?p=1) - The blog used throughout a course I taught at MIT on HTML5 graphics to high school students as part of MIT's summer [Junction](http://esp.mit.edu/learn/Junction/index.html) program.
+   * HTML5 Graphics Examples from the course: [run them](http://curran.github.com/HTML5Examples/), [source code](http://github.com/curran/HTML5Examples)
  * [Cloud and Mobile Web Graphics and Visualization](http://curran.github.com/portfolio/2012/Cloud and Mobile Web Graphics and Visualization.pdf) - An encyclopedia entry on Web graphics technology.
  * [CodeHub](http://curran.github.com/portfolio/2012/CodeHub.pdf) - Slides from a presentation on a Web-based IDE project.
  * [Quadstream Project Report](http://curran.github.com/portfolio/2012/Quadstream Project Report.pdf) - A report from a class project on multi-scale polygon generalization for Web-based choropleth maps.
