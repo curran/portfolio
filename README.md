@@ -30,6 +30,7 @@ Greetings! This is the portfolio of Curran Kelleher.
 2009 Work
 
  * [Life of a Human - A Year in Germany](http://curran.github.com/portfolio/2009/Life of a Human - A Year in Germany.pdf) - The book I compiled from my blog posts during my year abroad in Germany.
+ * [3D Graphing Calculator in Clojure](http://curransoft.com/code/2009/05/3d-grapher-in-clojure/) - A class project where Clojure and OpenGL were used to build a 3D surface plotter with mouse rotation controls.
 
 2007 Work
  * [RecursiveStructuresAndProcesses](http://curran.github.com/portfolio/2007/RecursiveStructuresAndProcesses.pdf) - The material I covered when I co-taught an 8-week course with MIT student Justin Curry, entitled "Gödel, Escher, Bach: A Mental Space Odyssey". [Lecture videos available on MIT's OpenCourseWare](http://ocw.mit.edu/high-school/courses/godel-escher-bach/).
