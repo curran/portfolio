@@ -15,6 +15,7 @@ Greetings! This is the portfolio of Curran Kelleher.
  * [CodeHub](http://curran.github.com/portfolio/2012/CodeHub.pdf) - Slides from a presentation on a Web-based IDE project.
  * [Quadstream Project Report](http://curran.github.com/portfolio/2012/Quadstream Project Report.pdf) - A report from a class project on multi-scale polygon generalization for Web-based choropleth maps.
  * [A Web-based Data Cube Visualization Ecosystem Architecture](http://curran.github.com/portfolio/2012/A Web-based Data Cube Visualization Ecosystem Architecture.pdf) - A summary of my doctoral dissertation, presented at the IEEE VisWeek 2012 Doctoral Colloquium.
+ * [WebGL Examples](https://github.com/UMLComputerGraphics/GraphicsProject/tree/master/WebGLExamples) - Educational examples produced while I was a Teaching Assistant for the course "Computer Graphics with OpenGL ES".
 
 2011 Work
 
