@@ -6,6 +6,7 @@ Greetings! This is the portfolio of Curran Kelleher.
 2013 Work
 
  * [Introduction to JavaScript and HTML5 Canvas](http://www.youtube.com/watch?v=vEOwgWpm3XQ) - A screencast introducing JavaScript and HTML5 Canvas, from a tutorial given at UMass Lowell sponsored by the ACM and UML Computer Science Graduate Student Organization.
+ * [HTML5 Bouncing Circles](https://github.com/curran/screencasts/tree/gh-pages/bouncingCircles) - A [screencast](http://www.youtube.com/watch?v=yF0T7lviBnY&feature=youtu.be) in which a simulation of bouncing and colliding balls is programmed from scratch using JavaScript and HTML5 Canvas.
 
 2012 Work
 
