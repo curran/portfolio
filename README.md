@@ -4,9 +4,9 @@ Greetings! This is the portfolio of Curran Kelleher.
  * [UMass Lowell Transcript](http://curran.github.com/portfolio/UMass Lowell Transcript.pdf)
 
 2013 Work
-
- * [Introduction to JavaScript and HTML5 Canvas](http://www.youtube.com/watch?v=vEOwgWpm3XQ) - A screencast introducing JavaScript and HTML5 Canvas, from a tutorial given at UMass Lowell sponsored by the ACM and UML Computer Science Graduate Student Organization.
- * [HTML5 Bouncing Circles](https://github.com/curran/screencasts/tree/gh-pages/bouncingCircles) - A [screencast](http://www.youtube.com/watch?v=yF0T7lviBnY&feature=youtu.be) in which a simulation of bouncing and colliding balls is programmed from scratch using JavaScript and HTML5 Canvas.
+ * [HTML5 Polygon Editor](https://github.com/curran/screencasts/tree/gh-pages/polygonEditor) (April 2013) - A [screencast](http://www.youtube.com/watch?v=lNfKn0wbxYI&feature=youtu.be) on building a Polygon Editor using Backbone, Require.js, and Canvas.
+ * [HTML5 Bouncing Circles](https://github.com/curran/screencasts/tree/gh-pages/bouncingCircles) (March 2013) - A [screencast](http://www.youtube.com/watch?v=yF0T7lviBnY&feature=youtu.be) in which a simulation of bouncing and colliding balls is programmed from scratch using JavaScript and HTML5 Canvas.
+ * [Introduction to JavaScript and HTML5 Canvas](http://www.youtube.com/watch?v=vEOwgWpm3XQ) (February 2013) - A screencast introducing JavaScript and HTML5 Canvas, from a tutorial given at UMass Lowell sponsored by the ACM and UML Computer Science Graduate Student Organization.
 
 2012 Work
 
