@@ -4,12 +4,15 @@ Greetings! This is the portfolio of Curran Kelleher.
  * [UMass Lowell Transcript](http://curran.github.com/portfolio/UMass Lowell Transcript.pdf)
 
 2013 Work
+ * [Mandelbrot](https://github.com/curran/mandelbrot) A Mandelbrot Set renderer that runs on the GPU using WebGL shaders.
+ * [Lambda](https://github.com/curran/lambda) A Lambda Calculus interpreter in Haskell and CoffeeScript.
  * [HTML5 Polygon Editor](https://github.com/curran/screencasts/tree/gh-pages/polygonEditor) (April 2013) - A [screencast](http://www.youtube.com/watch?v=lNfKn0wbxYI&feature=youtu.be) on building a Polygon Editor using Backbone, Require.js, and Canvas.
  * [HTML5 Bouncing Circles](https://github.com/curran/screencasts/tree/gh-pages/bouncingCircles) (March 2013) - A [screencast](http://www.youtube.com/watch?v=yF0T7lviBnY&feature=youtu.be) in which a simulation of bouncing and colliding balls is programmed from scratch using JavaScript and HTML5 Canvas.
  * [Introduction to JavaScript and HTML5 Canvas](http://www.youtube.com/watch?v=vEOwgWpm3XQ) (February 2013) - A screencast introducing JavaScript and HTML5 Canvas, from a tutorial given at UMass Lowell sponsored by the ACM and UML Computer Science Graduate Student Organization.
 
 2012 Work
 
+ * Screencasts and Educational Material
  * [Introduction to Computer Programming and Interactive Graphics](http://curransoft.com/interactivegraphics/?p=1) - The blog used throughout a course I taught at MIT on HTML5 graphics to high school students as part of MIT's summer [Junction](http://esp.mit.edu/learn/Junction/index.html) program.
    * HTML5 Graphics Examples from the course: [run them](http://curran.github.com/HTML5Examples/), [source code](http://github.com/curran/HTML5Examples)
  * [Cloud and Mobile Web Graphics and Visualization](http://curran.github.com/portfolio/2012/Cloud and Mobile Web Graphics and Visualization.pdf) - An encyclopedia entry on Web graphics technology.
