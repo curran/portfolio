@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<jardesc>
+    <jar path="C:/Documents and Settings/Curran/Desktop/Grapher2D.jar"/>
+    <options overwrite="false" compress="true" exportErrors="true" exportWarnings="true" saveDescription="true" descriptionLocation="/2DGrapher/Grapher2DJar.jardesc" useSourceFolders="false" buildIfNeeded="true" includeDirectoryEntries="false"/>
+    <manifest manifestVersion="1.0" usesManifest="true" reuseManifest="false" saveManifest="false" generateManifest="true" manifestLocation="" mainClassHandleIdentifier="=2DGrapher/&lt;grapher2D{Grapher2DLauncher.java[Grapher2DLauncher">
+        <sealing sealJar="false">
+            <packagesToSeal/>
+            <packagesToUnSeal/>
+        </sealing>
+    </manifest>
+    <selectedElements exportClassFiles="true" exportOutputFolder="false" exportJavaFiles="false">
+        <javaElement handleIdentifier="=MiscellaneousUtilities/&lt;generalMathClasses"/>
+        <javaElement handleIdentifier="=RecursiveDescentParser/&lt;parser"/>
+        <folder path="/ExpressionConsole/.settings"/>
+        <javaElement handleIdentifier="=MiscellaneousUtilities/&lt;graphicsUtilities"/>
+        <javaElement handleIdentifier="=VariableEditorUI/&lt;variableEditorUI"/>
+        <javaElement handleIdentifier="=ActionScript/&lt;logEnabledComponents"/>
+        <javaElement handleIdentifier="=2DGrapher/&lt;grapher2D"/>
+        <javaElement handleIdentifier="=ActionScript/&lt;actionScript"/>
+        <javaElement handleIdentifier="=RecursiveDescentParser/&lt;operators"/>
+        <javaElement handleIdentifier="=RecursiveDescentParser/&lt;valueTypes"/>
+        <javaElement handleIdentifier="=ExpressionConsole/&lt;expressionConsole"/>
+        <file path="/2DGrapher/icon.gif"/>
+        <javaElement handleIdentifier="=Graphics3D/&lt;math3D"/>
+        <javaElement handleIdentifier="=RecursiveDescentParser/&lt;variables"/>
+        <javaElement handleIdentifier="=Graphics3D/&lt;primitives3D"/>
+        <javaElement handleIdentifier="=RecursiveDescentParser/&lt;example"/>
+        <javaElement handleIdentifier="=ExpressionConsole/&lt;example"/>
+        <javaElement handleIdentifier="=VariableEditorUI/&lt;variableEditorComponents"/>
+        <javaElement handleIdentifier="=Graphics3D/&lt;drawing3D"/>
+        <javaElement handleIdentifier="=Graphics3D/&lt;examples"/>
+        <javaElement handleIdentifier="=VariableEditorUI/&lt;variableEditorTypes"/>
+    </selectedElements>
+</jardesc>

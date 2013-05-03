@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<jardesc>
+<jar path="C:/Documents and Settings/Curran/Desktop/CurranPhysics.jar"/>
+<options buildIfNeeded="true" compress="true" descriptionLocation="/CurranPhysics/CurranPhysics.jardesc" exportErrors="true" exportWarnings="true" includeDirectoryEntries="false" overwrite="false" saveDescription="true" storeRefactorings="false" useSourceFolders="false"/>
+<storedRefactorings deprecationInfo="true" structuralOnly="false"/>
+<selectedProjects/>
+<manifest generateManifest="true" mainClassHandleIdentifier="=CurranPhysics/&lt;curranPhysics{VariableBridgedCurranPhysics.java[VariableBridgedCurranPhysics" manifestLocation="" manifestVersion="1.0" reuseManifest="false" saveManifest="false" usesManifest="true">
+<sealing sealJar="true">
+<packagesToSeal/>
+<packagesToUnSeal/>
+</sealing>
+</manifest>
+<selectedElements exportClassFiles="true" exportJavaFiles="false" exportOutputFolder="false">
+<javaElement handleIdentifier="=ExpressionConsole/&lt;expressionConsole"/>
+<javaElement handleIdentifier="=ColorMap"/>
+<javaElement handleIdentifier="=ApacheXMLGraphicsCommons"/>
+<file path="/ExpressionConsole/.classpath"/>
+<javaElement handleIdentifier="=VariableEditorUI"/>
+<javaElement handleIdentifier="=RecursiveDescentParser"/>
+<javaElement handleIdentifier="=CommonUtilities"/>
+<javaElement handleIdentifier="=ExpressionConsole/&lt;example"/>
+<file path="/ExpressionConsole/.project"/>
+<javaElement handleIdentifier="=CurranPhysics"/>
+<javaElement handleIdentifier="=ActionScript"/>
+<javaElement handleIdentifier="=Graphics3D"/>
+</selectedElements>
+</jardesc>

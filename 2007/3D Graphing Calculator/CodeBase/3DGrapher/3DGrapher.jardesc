@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<jardesc>
+<jar path="C:/Documents and Settings/Curran/Desktop/Grapher3D.jar"/>
+<options buildIfNeeded="true" compress="true" descriptionLocation="/3DGrapher/3DGrapher.jardesc" exportErrors="true" exportWarnings="true" includeDirectoryEntries="false" overwrite="false" saveDescription="true" storeRefactorings="false" useSourceFolders="false"/>
+<storedRefactorings deprecationInfo="true" structuralOnly="false"/>
+<selectedProjects/>
+<manifest generateManifest="true" mainClassHandleIdentifier="=3DGrapher/&lt;grapher3D{Grapher3DLauncher.java[Grapher3DLauncher" manifestLocation="" manifestVersion="1.0" reuseManifest="false" saveManifest="false" usesManifest="true">
+<sealing sealJar="true">
+<packagesToSeal/>
+<packagesToUnSeal/>
+</sealing>
+</manifest>
+<selectedElements exportClassFiles="true" exportJavaFiles="false" exportOutputFolder="false">
+<javaElement handleIdentifier="=ColorMap"/>
+<javaElement handleIdentifier="=3DGrapher/&lt;grapher3D"/>
+<javaElement handleIdentifier="=ApacheXMLGraphicsCommons"/>
+<javaElement handleIdentifier="=3DGrapher/&lt;grapher3D.controller"/>
+<javaElement handleIdentifier="=VariableEditorUI"/>
+<javaElement handleIdentifier="=RecursiveDescentParser"/>
+<javaElement handleIdentifier="=ExpressionConsole"/>
+<javaElement handleIdentifier="=CommonUtilities"/>
+<javaElement handleIdentifier="=3DGrapher/&lt;grapher3D.view"/>
+<javaElement handleIdentifier="=ActionScript"/>
+<javaElement handleIdentifier="=Graphics3D"/>
+</selectedElements>
+</jardesc>
