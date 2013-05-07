@@ -34,13 +34,16 @@ Greetings! This is the portfolio of Curran Kelleher.
 
 2009 Work
 
- * [Life of a Human - A Year in Germany](http://curran.github.com/portfolio/2009/Life of a Human - A Year in Germany.pdf) - The book I compiled from my blog posts during my year abroad in Germany.
  * [3D Graphing Calculator in Clojure](http://curransoft.com/code/2009/05/3d-grapher-in-clojure/) - A class project where Clojure and OpenGL were used to build a 3D surface plotter with mouse rotation controls.
 
+2008 Work
+
+ * [Life of a Human - A Year in Germany](http://curran.github.com/portfolio/2009/Life of a Human - A Year in Germany.pdf) - The book I compiled from my blog posts during my year abroad in Germany.
+
 2007 Work
- * [3D Graphing Calculator and Physics Simulation](https://github.com/curran/portfolio/tree/gh-pages/2007/3D%20Graphing%20Calculator)
- * [RecursiveStructuresAndProcesses](http://curran.github.com/portfolio/2007/RecursiveStructuresAndProcesses.pdf) - The material I covered when I co-taught an 8-week course with MIT student Justin Curry, entitled "Gödel, Escher, Bach: A Mental Space Odyssey". [Lecture videos available on MIT's OpenCourseWare](http://ocw.mit.edu/high-school/courses/godel-escher-bach/).
- * [JyVis](http://curran.github.com/portfolio/2007/JyVis.pdf) - A paper on a Java-based interactive information visualization system I built at a summer project. Published as a technical report by UMass Lowell.
+ * <img src="2007/Grapher.png"></img>[3D Graphing Calculator and Physics Simulation](https://github.com/curran/portfolio/tree/gh-pages/2007/3D%20Graphing%20Calculator)
+ * <img src="2007/Recursive.png"></img>[RecursiveStructuresAndProcesses](http://curran.github.com/portfolio/2007/RecursiveStructuresAndProcesses.pdf) - The material I covered when I co-taught an 8-week course with MIT student Justin Curry, entitled "Gödel, Escher, Bach: A Mental Space Odyssey". [Lecture videos available on MIT's OpenCourseWare](http://ocw.mit.edu/high-school/courses/godel-escher-bach/).
+ * <img src="2007/JyVis.png"></img>[JyVis](http://curran.github.com/portfolio/2007/JyVis.pdf) - A paper on a Java-based interactive information visualization system I built at a summer project. Published as a technical report by UMass Lowell.
 
 2006 Work
 
