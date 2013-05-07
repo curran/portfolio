@@ -34,7 +34,7 @@ Greetings! This is the portfolio of Curran Kelleher.
 
 2009 Work
 
- * [3D Graphing Calculator in Clojure](http://curransoft.com/code/2009/05/3d-grapher-in-clojure/) - A class project where Clojure and OpenGL were used to build a 3D surface plotter with mouse rotation controls.
+ * <img src="2009/ClojureGrapher.png"></img>[3D Graphing Calculator in Clojure](http://curransoft.com/code/2009/05/3d-grapher-in-clojure/) - A class project where Clojure and OpenGL were used to build a 3D surface plotter with mouse rotation controls.
 
 2008 Work
 
@@ -47,6 +47,6 @@ Greetings! This is the portfolio of Curran Kelleher.
 
 2006 Work
 
-<img style="float:left" src="2006/Collecting.png"></img> [Collecting and Harnessing Rich Session Histories](http://curran.github.com/portfolio/2006/Collecting and Harnessing Rich Session Histories.pdf) and [Metrics for Analyzing Rich Session Histories](http://curran.github.com/portfolio/2006/Metrics for Analyzing Rich Session Histories.pdf) - Papers from work done at the [IVPR](http://www.uml.edu/Research/IVPR/about.aspx) on the session history replay and analysis features of the [Universal Visualization Platform](http://www.cs.uml.edu/~agee/publications/spie2005/spie2005.pdf).
+ * <img src="2006/Collecting.png"></img> [Collecting and Harnessing Rich Session Histories](http://curran.github.com/portfolio/2006/Collecting and Harnessing Rich Session Histories.pdf) and [Metrics for Analyzing Rich Session Histories](http://curran.github.com/portfolio/2006/Metrics for Analyzing Rich Session Histories.pdf) - Papers from work done at the [IVPR](http://www.uml.edu/Research/IVPR/about.aspx) on the session history replay and analysis features of the [Universal Visualization Platform](http://www.cs.uml.edu/~agee/publications/spie2005/spie2005.pdf).
 
-<img style="float:left" src="2006/Information.png"></img> [Information Theoretic and Complexity Considerations in Four Classes of Cellular Automata](http://curran.github.com/portfolio/2006/Information Theoretic and Complexity Considerations in Four Classes of Cellular Automata.pdf) - A report from a project done at an intensive week-long course in Dynamics of Complex Systems taught by [Yaneer Bar-Yam](http://necsi.edu/faculty/bar-yam.html) at MIT.
+ * <img src="2006/Information.png"></img> [Information Theoretic and Complexity Considerations in Four Classes of Cellular Automata](http://curran.github.com/portfolio/2006/Information Theoretic and Complexity Considerations in Four Classes of Cellular Automata.pdf) - A report from a project done at an intensive week-long course in Dynamics of Complex Systems taught by [Yaneer Bar-Yam](http://necsi.edu/faculty/bar-yam.html) at MIT.
