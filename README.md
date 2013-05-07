@@ -5,7 +5,7 @@ Greetings! This is the portfolio of Curran Kelleher.
 
 ## 2013 Work
  * [Grammar of Graphics in HTML5](https://docs.google.com/document/d/1shaxGjI3a-IbaAKCTE4BIOYEdoHO-ec06T7oKs5ozHs/edit) ([pdf](http://curran.github.io/portfolio/2013/GrammarofGraphicsinHTML5.pdf))
- * [Mandelbrot](https://github.com/curran/mandelbrot) A Mandelbrot Set renderer that runs on the GPU using WebGL shaders.
+ * <img src="2013/Mandelbrot.png"></img>[Mandelbrot](https://github.com/curran/mandelbrot) A Mandelbrot Set renderer that runs on the GPU using WebGL shaders.
  * [Lambda](https://github.com/curran/lambda) A Lambda Calculus interpreter in Haskell and CoffeeScript.
  * [HTML5 Polygon Editor](https://github.com/curran/screencasts/tree/gh-pages/polygonEditor) (April 2013) - A [screencast](http://www.youtube.com/watch?v=lNfKn0wbxYI&feature=youtu.be) on building a Polygon Editor using Backbone, Require.js, and Canvas.
  * [HTML5 Bouncing Circles](https://github.com/curran/screencasts/tree/gh-pages/bouncingCircles) (March 2013) - A [screencast](http://www.youtube.com/watch?v=yF0T7lviBnY&feature=youtu.be) in which a simulation of bouncing and colliding balls is programmed from scratch using JavaScript and HTML5 Canvas.
