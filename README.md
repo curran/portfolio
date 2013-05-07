@@ -38,7 +38,7 @@ Greetings! This is the portfolio of Curran Kelleher.
 
 ## 2008 Work
 
- * <img src="2008/Germany.png"></img>[Life of a Human - A Year in Germany](http://curran.github.com/portfolio/2009/Life of a Human - A Year in Germany.pdf) - The book I compiled from my blog posts during my year abroad in Germany.
+ * <img src="2008/Germany.png"></img>[Life of a Human - A Year in Germany](http://curran.github.com/portfolio/2008/Life of a Human - A Year in Germany.pdf) - The book I compiled from my blog posts during my year abroad in Germany.
 
 ## 2007 Work
  * <img src="2007/Grapher.png"></img> [3D Graphing Calculator and Physics Simulation](https://github.com/curran/portfolio/tree/gh-pages/2007/3D%20Graphing%20Calculator)
