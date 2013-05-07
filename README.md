@@ -3,7 +3,7 @@ Greetings! This is the portfolio of Curran Kelleher.
  * [Resume](http://curran.github.com/portfolio/Resume.pdf)
  * [UMass Lowell Transcript](http://curran.github.com/portfolio/UMass Lowell Transcript.pdf)
 
-2013 Work
+## 2013 Work
  * [Grammar of Graphics in HTML5](https://docs.google.com/document/d/1shaxGjI3a-IbaAKCTE4BIOYEdoHO-ec06T7oKs5ozHs/edit) ([pdf](http://curran.github.io/portfolio/2013/GrammarofGraphicsinHTML5.pdf))
  * [Mandelbrot](https://github.com/curran/mandelbrot) A Mandelbrot Set renderer that runs on the GPU using WebGL shaders.
  * [Lambda](https://github.com/curran/lambda) A Lambda Calculus interpreter in Haskell and CoffeeScript.
@@ -11,7 +11,7 @@ Greetings! This is the portfolio of Curran Kelleher.
  * [HTML5 Bouncing Circles](https://github.com/curran/screencasts/tree/gh-pages/bouncingCircles) (March 2013) - A [screencast](http://www.youtube.com/watch?v=yF0T7lviBnY&feature=youtu.be) in which a simulation of bouncing and colliding balls is programmed from scratch using JavaScript and HTML5 Canvas.
  * [Introduction to JavaScript and HTML5 Canvas](http://www.youtube.com/watch?v=vEOwgWpm3XQ) (February 2013) - A screencast introducing JavaScript and HTML5 Canvas, from a tutorial given at UMass Lowell sponsored by the ACM and UML Computer Science Graduate Student Organization.
 
-2012 Work
+## 2012 Work
 
  * [Introduction to Computer Programming and Interactive Graphics](http://curransoft.com/interactivegraphics/?p=1) - The blog used throughout a course I taught at MIT on HTML5 graphics to high school students as part of MIT's summer [Junction](http://esp.mit.edu/learn/Junction/index.html) program.
    * HTML5 Graphics Examples from the course: [run them](http://curran.github.com/HTML5Examples/), [source code](http://github.com/curran/HTML5Examples)
@@ -26,26 +26,26 @@ Greetings! This is the portfolio of Curran Kelleher.
  * [Fractal Perspective](http://curran.github.com/portfolio/2011/Fractal Perspective.pdf) - A concept paper on visualizing [RDF](http://en.wikipedia.org/wiki/Resource_Description_Framework), presented at the Fifteenth International Conference on Information Visualisation (IV'11) in London.
  * [Assessing Risks for Families with Inherited Cancers](http://curran.github.com/portfolio/2011/Assessing Risks for Families with Inherited Cancers.pdf) - A paper on the breast cancer risk assessment platform I worked on at Masachusetts General Hospital. Presented at IEEE VisWeek 2011: Workshop on Visual Analytics in Healthcare.
 
-2010 Work
+## 2010 Work
 
  * [Multiscale Visualization using Data Cubes](http://curran.github.com/portfolio/2010/Multiscale Visualization using Data Cubes.pdf) - Slides from a presentation on the paper [Multiscale Visualization Using Data Cubes](http://graphics.stanford.edu/papers/pan_zoom/paper.pdf)
  * [Universal Data Cube](http://curran.github.com/portfolio/2010/Universal Data Cube.pdf) - A report on my work on developing the "Universal Data Cube" concept at University of Konstanz.
  * [Visualizing Bureau of Labor Statistics Employment Data](http://curran.github.com/portfolio/2010/Visualizing Bureau of Labor Statistics Employment Data.pdf) - Slides on a class project where Employment data was explred visually using Tableau.
 
-2009 Work
+## 2009 Work
 
  * <img src="2009/ClojureGrapher.png"></img>[3D Graphing Calculator in Clojure](http://curransoft.com/code/2009/05/3d-grapher-in-clojure/) - A class project where Clojure and OpenGL were used to build a 3D surface plotter with mouse rotation controls.
 
-2008 Work
+## 2008 Work
 
  * <img src="2008/Germany.png"></img>[Life of a Human - A Year in Germany](http://curran.github.com/portfolio/2009/Life of a Human - A Year in Germany.pdf) - The book I compiled from my blog posts during my year abroad in Germany.
 
-2007 Work
+## 2007 Work
  * <img src="2007/Grapher.png"></img> [3D Graphing Calculator and Physics Simulation](https://github.com/curran/portfolio/tree/gh-pages/2007/3D%20Graphing%20Calculator)
  * <img src="2007/Recursive.png"></img> [RecursiveStructuresAndProcesses](http://curran.github.com/portfolio/2007/RecursiveStructuresAndProcesses.pdf) - The material I covered when I co-taught an 8-week course with MIT student Justin Curry, entitled "Gödel, Escher, Bach: A Mental Space Odyssey". [Lecture videos available on MIT's OpenCourseWare](http://ocw.mit.edu/high-school/courses/godel-escher-bach/).
  * <img src="2007/JyVis.png"></img> [JyVis](http://curran.github.com/portfolio/2007/JyVis.pdf) - A paper on a Java-based interactive information visualization system I built at a summer project. Published as a technical report by UMass Lowell.
 
-2006 Work
+## 2006 Work
 
  * <img src="2006/Collecting.png"></img> [Collecting and Harnessing Rich Session Histories](http://curran.github.com/portfolio/2006/Collecting and Harnessing Rich Session Histories.pdf) and [Metrics for Analyzing Rich Session Histories](http://curran.github.com/portfolio/2006/Metrics for Analyzing Rich Session Histories.pdf) - Papers from work done at the [IVPR](http://www.uml.edu/Research/IVPR/about.aspx) on the session history replay and analysis features of the [Universal Visualization Platform](http://www.cs.uml.edu/~agee/publications/spie2005/spie2005.pdf).
 
