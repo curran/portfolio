@@ -21,7 +21,7 @@ Greetings! This is the portfolio of Curran Kelleher.
  * [A Web-based Data Cube Visualization Ecosystem Architecture](http://curran.github.com/portfolio/2012/A Web-based Data Cube Visualization Ecosystem Architecture.pdf) - A summary of my doctoral dissertation, presented at the IEEE VisWeek 2012 Doctoral Colloquium.
  * <img src="2012/Earth.png"></img><img src="2012/Cubes.png"></img>[WebGL Examples](https://github.com/UMLComputerGraphics/GraphicsProject/tree/master/WebGLExamples) - Educational examples produced while I was a Teaching Assistant for the course "Computer Graphics with OpenGL ES".
 
-2011 Work
+## 2011 Work
 
  * <img src="2011/Fractal.png"></img>[Fractal Perspective](http://curran.github.com/portfolio/2011/Fractal Perspective.pdf) - A concept paper on visualizing [RDF](http://en.wikipedia.org/wiki/Resource_Description_Framework), presented at the Fifteenth International Conference on Information Visualisation (IV'11) in London.
  * <img src="2011/Assessing.png"></img>[Assessing Risks for Families with Inherited Cancers](http://curran.github.com/portfolio/2011/Assessing Risks for Families with Inherited Cancers.pdf) - A paper on the breast cancer risk assessment platform I worked on at Masachusetts General Hospital. Presented at IEEE VisWeek 2011: Workshop on Visual Analytics in Healthcare.
