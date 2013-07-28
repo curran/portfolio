@@ -4,6 +4,8 @@ Greetings! This is the portfolio of Curran Kelleher.
  * [UMass Lowell Transcript](http://curran.github.com/portfolio/UMass Lowell Transcript.pdf)
 
 ## 2013 Work
+ * [DashboardScaffold](https://github.com/curran/dashboardScaffold) - An open source visualization dashboard layout and dynamic configuration framework. Developed while interning at Rapid7 creating cybersecurity visualization visualization dashboards with multiple linked views.
+ * [Introduction to Computer Programming](http://www.youtube.com/watch?v=zIpA8k167gU) (July 2013) - A screencast from a tutorial given at MIT on July 21, 2013. Part of the HSSP 2013 course Computer Programming and Interactive Graphics. Covers JavaScript language features and basic graphics.
  * [Grammar of Graphics in HTML5](https://docs.google.com/document/d/1shaxGjI3a-IbaAKCTE4BIOYEdoHO-ec06T7oKs5ozHs/edit) ([pdf](http://curran.github.io/portfolio/2013/GrammarofGraphicsinHTML5.pdf))
  * <img src="2013/Mandelbrot.png"></img>[Mandelbrot](https://github.com/curran/mandelbrot) A Mandelbrot Set renderer that runs on the GPU using WebGL shaders.
  * [Lambda](https://github.com/curran/lambda) A Lambda Calculus interpreter in Haskell and CoffeeScript.
