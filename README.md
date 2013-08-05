@@ -31,7 +31,7 @@ Greetings! This is the portfolio of Curran Kelleher.
 
 ## 2010 Work
 
- * [Multiscale Visualization using Data Cubes](http://curran.github.com/portfolio/2010/Multiscale Visualization using Data Cubes.pdf) - Slides from a presentation on the paper [Multiscale Visualization Using Data Cubes](http://graphics.stanford.edu/papers/pan_zoom/paper.pdf)
+ * <img src="2010/dataCubes.png"/>[Multiscale Visualization using Data Cubes](http://curran.github.com/portfolio/2010/Multiscale Visualization using Data Cubes.pdf) - Slides from a presentation on the paper [Multiscale Visualization Using Data Cubes](http://graphics.stanford.edu/papers/pan_zoom/paper.pdf)
  * <img src="2010/UDC.png"></img>[Universal Data Cube](http://curran.github.com/portfolio/2010/Universal Data Cube.pdf) - A report on my work on developing the "Universal Data Cube" concept at University of Konstanz.
  * <img src="2010/BLS.png"></img>[Visualizing Bureau of Labor Statistics Employment Data](http://curran.github.com/portfolio/2010/Visualizing Bureau of Labor Statistics Employment Data.pdf) - Slides on a class project where Employment data was explred visually using Tableau.
 
