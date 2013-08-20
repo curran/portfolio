@@ -4,6 +4,8 @@ Greetings! This is the portfolio of Curran Kelleher.
  * [UMass Lowell Transcript](http://curran.github.com/portfolio/UMass Lowell Transcript.pdf)
 
 ## 2013 Work
+ 
+ * <a href="http://www.rapid7.com/products/user-insight/"><img src="2013/rapid7UserInsightMap.png"></img></a>[Rapid7 User Insight](http://www.rapid7.com/products/user-insight/) (August 2013) - Designed and implemented a visualization dashboard for exploring and presenting corporate logins filtered in space, time and service used. This work is in Rapid7's UserInsight product.
  * <img src="2013/mathPatterns.png"></img>[Screencast on Mathematical Graphical Patterns](https://github.com/curran/screencasts/tree/gh-pages/mathPatterns) (July 2013) - A screencast from a tutorial given at MIT on July 28, 2013. Part of the HSSP 2013 course Computer Programming and Interactive Graphics. In this tutorial we explore variations on mathematical animations of a grid of circles.
  * <img src="2013/dashboardScaffold.png"></img>[dashboardScaffold](https://github.com/curran/dashboardScaffold) - An open source visualization dashboard layout and dynamic configuration framework. Developed while interning at Rapid7 creating cybersecurity visualization visualization dashboards with multiple linked views.
  * [Introduction to Computer Programming](http://www.youtube.com/watch?v=zIpA8k167gU) (July 2013) - A screencast from a tutorial given at MIT on July 21, 2013. Part of the HSSP 2013 course Computer Programming and Interactive Graphics. Covers JavaScript language features and basic graphics.
