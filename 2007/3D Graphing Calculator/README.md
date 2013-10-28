@@ -10,3 +10,9 @@ This directory contains:
    * A math expression parser
    * A 3D engine that renders using the Java2D API
    * A framework for linking UI elements to variables in expressions
+
+Here's a screenshot of the 3D graphing calculator:
+
+<img src="GrapherScreenShot.png"></img>
+
+You can try the program yourself by downloading and running the [Grapher3D.jar](https://github.com/curran/portfolio/blob/gh-pages/2007/3D%20Graphing%20Calculator/Grapher3D.jar?raw=true) file.
