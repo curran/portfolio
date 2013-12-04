@@ -1,5 +1,6 @@
 Greetings! This is the portfolio of Curran Kelleher.
 
+ * [LinkedIn Profile](http://www.linkedin.com/profile/view?id=27871853)
  * [Resume](http://curran.github.com/portfolio/Resume.pdf)
  * [UMass Lowell Transcript](http://curran.github.com/portfolio/UMass Lowell Transcript.pdf)
 
