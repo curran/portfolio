@@ -6,7 +6,7 @@ Greetings! This is the portfolio of Curran Kelleher.
 
 ## 2013 Work
 
- * <a href="http://curran.github.io/webVisSTAR/"><img src="2013/WebVisSTAR.png"></img></a>[Web-based Data Visualization](http://curran.github.io/webVisSTAR/) (December 2013) - A presentation that surveys the state of the art in Web-based Data Visualization and related technologies.
+ * <a href="http://curran.github.io/webVisSTAR/"><img src="2013/webVisSTAR.png"></img></a>[Web-based Data Visualization](http://curran.github.io/webVisSTAR/) (December 2013) - A presentation that surveys the state of the art in Web-based Data Visualization and related technologies.
  * <a href="https://github.com/curran/screencasts/tree/gh-pages/grapher"><img src="2013/HTML5GraphingCalculator.png"></img></a>[Building a Graphing Calculator with HTML5](https://github.com/curran/screencasts/tree/gh-pages/grapher) (November 2013) - A screencast tutorial in which students learn how to program a graphing calculator in HTML5 from scratch.
  * <a href="https://github.com/curran/notes"><img src="2013/notes.png"></img></a>[Notes](https://github.com/curran/notes) (November 2013) - A Backbone.js powered serverless blog engine, used for publishing miscellaneous notes.
  * <a href="http://curran.github.io/vis2013Tutorial/"><img src="2013/vis2013.png"></img></a>[Tutorial on Web Graphics and Visualization Technologies](http://curran.github.io/vis2013Tutorial/) (October 2013) - The material presented at the IEEE Vis 2013 conference in a tutorial called "Mobile and cloud Web-based graphics and visualization".
