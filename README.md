@@ -4,6 +4,10 @@ Greetings! This is the portfolio of Curran Kelleher.
  * [Resume](http://curran.github.com/portfolio/Resume.pdf)
  * [UMass Lowell Transcript](http://curran.github.com/portfolio/UMass Lowell Transcript.pdf)
 
+## 2014 Work
+
+ * <a href="https://www.youtube.com/watch?v=TRrL5j3MIvo&feature=youtu.be"><img src="2014/angular50_small.png"/></a>Introduction to Angular.js in 50 examples (part 1) - [screencast](https://www.youtube.com/watch?v=TRrL5j3MIvo&feature=youtu.be) - [code](https://github.com/curran/screencasts/tree/gh-pages/introToAngular) - A lecture that first covers background of data binding, single-page-apps, and related libraries, then introduces Angular features by example.
+
 ## 2013 Work
 
  * <a href="http://curran.github.io/webVisSTAR/"><img src="2013/webVisSTAR.png"></img></a>[Web-based Data Visualization](http://curran.github.io/webVisSTAR/) (December 2013) - A presentation that surveys the state of the art in Web-based Data Visualization and related technologies.
