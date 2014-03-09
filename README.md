@@ -6,7 +6,7 @@ Greetings! This is the portfolio of Curran Kelleher.
 
 ## 2014 Work
 
- * <a href="http://curran.github.io/screencasts/introToAngular/exampleViewer/#/"><img src="2014/angular50_small.png"/></a>Introduction to Angular.js in 50 examples (part 1) - [screencast](https://www.youtube.com/watch?v=TRrL5j3MIvo&feature=youtu.be) - [code](https://github.com/curran/screencasts/tree/gh-pages/introToAngular) - A lecture that first covers background of data binding, single-page-apps, and related libraries, then introduces Angular features by example.
+ * <a href="http://curran.github.io/screencasts/introToAngular/exampleViewer/#/"><img src="2014/angular50_small.png"/></a>Introduction to Angular.js in 50 examples (part 1) - [screencast](https://www.youtube.com/watch?v=TRrL5j3MIvo&feature=youtu.be) - [code](https://github.com/curran/screencasts/tree/gh-pages/introToAngular) - A lecture that first covers background of data binding, single-page-apps and related libraries, then introduces Angular features by example.
 
 ## 2013 Work
 
