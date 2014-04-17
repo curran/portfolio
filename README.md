@@ -6,7 +6,7 @@ Greetings! This is the portfolio of Curran Kelleher.
 
 ## 2014 Work
 
- * <a href="https://github.com/curran/model"><img src="2014/model.png"/></a>[model.js](https://github.com/curran/phd) - A functional reactive model library for building dynamic data visualizations.
+ * <a href="https://github.com/curran/model"><img src="2014/model.png"/></a>[model.js](https://github.com/curran/model) - A functional reactive model library for building dynamic data visualizations.
  * <a href="https://github.com/curran/phd"><img src="2014/phd.png"/></a>[Visualizing the Universal Data Cube](https://github.com/curran/phd) - My doctoral dissertation about integrating and visualization heterogeneous data cubes using HTML5.
  * <a href="http://curran.github.io/screencasts/introToAngular/exampleViewer/#/"><img src="2014/angular50_small.png"/></a>Introduction to Angular.js in 50 examples (part 1) - [screencast](https://www.youtube.com/watch?v=TRrL5j3MIvo&feature=youtu.be) - [code](https://github.com/curran/screencasts/tree/gh-pages/introToAngular) - A lecture that first covers background of data binding, single-page-apps and related libraries, then introduces Angular features by example.
 
