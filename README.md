@@ -3,7 +3,7 @@ Greetings! This is the portfolio of Curran Kelleher.
  * [Resume](http://curran.github.com/portfolio/Resume.pdf)
  * [LinkedIn](http://www.linkedin.com/profile/view?id=27871853)
  * [Twitter](https://twitter.com/currankelleher)
- * [Google+](httpd://www.google.com/+currankelleher)
+ * [Google+](https://www.google.com/+currankelleher)
  * [UMass Lowell Transcript](http://curran.github.com/portfolio/UMass Lowell Transcript.pdf)
 
 ## 2014 Work
