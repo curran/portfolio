@@ -1,5 +1,6 @@
 Greetings! This is the portfolio of Curran Kelleher.
 
+ * [Screencasts on YouTube](https://www.youtube.com/playlist?list=PL9yYRbwpkyktAZaphR2UfeYpgNGnIqjs9&feature=c4-feed-u)
  * [Resume](http://curran.github.com/portfolio/Resume.pdf)
  * [University Transcript](http://curran.github.com/portfolio/UMass Lowell Transcript.pdf)
  * [Twitter](https://twitter.com/currankelleher)
@@ -9,8 +10,8 @@ Greetings! This is the portfolio of Curran Kelleher.
 
 ## 2014 Work
 
- * <a href="https://github.com/curran/screencasts/tree/gh-pages/reactiveDataVis"><img src="2014/reactiveDataVis.png"/></a>[Reactive Data Visualization](https://github.com/curran/screencasts/tree/gh-pages/reactiveDataVis) - A presentation on reactive model driven data visualization, given at the [Bay Area d3 User Group Meetup](http://www.meetup.com/Bay-Area-d3-User-Group/events/192685742/).
  * <a href="https://github.com/curran/model"><img src="2014/model.png"/></a>[model.js](https://github.com/curran/model) - A functional reactive model library for building dynamic data visualizations.
+ * <a href="https://github.com/curran/screencasts/tree/gh-pages/reactiveDataVis"><img src="2014/reactiveDataVis.png"/></a>[Reactive Data Visualization](https://github.com/curran/screencasts/tree/gh-pages/reactiveDataVis) - A presentation on reactive model driven data visualization, given at the [Bay Area d3 User Group Meetup](http://www.meetup.com/Bay-Area-d3-User-Group/events/192685742/).
  * <a href="https://github.com/curran/phd"><img src="2014/phd.png"/></a>[Visualizing the Universal Data Cube](https://github.com/curran/phd) - My doctoral dissertation about integrating and visualization heterogeneous data cubes using HTML5.
  * <a href="http://curran.github.io/screencasts/introToAngular/exampleViewer/#/"><img src="2014/angular50_small.png"/></a>Introduction to Angular.js in 50 examples (part 1) - [screencast](https://www.youtube.com/watch?v=TRrL5j3MIvo&feature=youtu.be) - [code](https://github.com/curran/screencasts/tree/gh-pages/introToAngular) - A lecture that first covers background of data binding, single-page-apps and related libraries, then introduces Angular features by example.
 
