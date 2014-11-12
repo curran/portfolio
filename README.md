@@ -1,4 +1,10 @@
-Greetings! This is the portfolio of Curran Kelleher.
+# Curran Kelleher
+
+Doctoral student @ University of Massachusetts
+
+Soon to be Software Engineer @ Alpine Data Labs
+
+curran.kelleher@gmail.com
 
  * [Screencasts on YouTube](https://www.youtube.com/playlist?list=PL9yYRbwpkyktAZaphR2UfeYpgNGnIqjs9&feature=c4-feed-u)
  * [Resume](http://curran.github.com/portfolio/Resume.pdf)
