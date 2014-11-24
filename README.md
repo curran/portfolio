@@ -16,6 +16,7 @@ curran.kelleher@gmail.com
 
 ## 2014 Work
 
+ * <a href="https://www.youtube.com/watch?v=XVHyygdD1Kg&feature=youtu.be&a"><img src="2014/defense.png"/></a>[Visualizing the Universal Data Cube](https://www.youtube.com/watch?v=XVHyygdD1Kg&feature=youtu.be&a) - Doctoral dissertation
  * <a href="https://github.com/curran/model"><img src="2014/model.png"/></a>[model.js](https://github.com/curran/model) - A functional reactive model library for building dynamic data visualizations.
  * <a href="https://github.com/curran/screencasts/tree/gh-pages/reactiveDataVis"><img src="2014/reactiveDataVis.png"/></a>[Reactive Data Visualization](https://github.com/curran/screencasts/tree/gh-pages/reactiveDataVis) - A presentation on reactive model driven data visualization, given at the [Bay Area d3 User Group Meetup](http://www.meetup.com/Bay-Area-d3-User-Group/events/192685742/).
  * <a href="https://github.com/curran/phd"><img src="2014/phd.png"/></a>[Visualizing the Universal Data Cube](https://github.com/curran/phd) - My doctoral dissertation about integrating and visualization heterogeneous data cubes using HTML5.
