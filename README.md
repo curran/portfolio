@@ -1,18 +1,22 @@
 # Curran Kelleher
 
-Doctoral student @ University of Massachusetts
-
-Soon to be Software Engineer @ Alpine Data Labs
+Software Engineer @ Alpine Data Labs
 
 curran.kelleher@gmail.com
 
+ * [Twitter](https://twitter.com/currankelleher)
+ * [LinkedIn](http://www.linkedin.com/profile/view?id=27871853)
  * [Screencasts on YouTube](https://www.youtube.com/playlist?list=PL9yYRbwpkyktAZaphR2UfeYpgNGnIqjs9&feature=c4-feed-u)
  * [Resume](http://curran.github.com/portfolio/Resume.pdf)
  * [University Transcript](http://curran.github.com/portfolio/UMass Lowell Transcript.pdf)
- * [Twitter](https://twitter.com/currankelleher)
- * [LinkedIn](http://www.linkedin.com/profile/view?id=27871853)
  * [Photos on Flickr](https://www.flickr.com/photos/10604632@N02/sets/)
  * [Google+](https://www.google.com/+currankelleher)
+
+## 2015 Work
+
+ * <a href="http://bl.ocks.org/curran/015402cce2caa074551e"><img src="2015/dataCanvasLineChart.png"/></a>[Data Canvas Part 2 - Line Chart](http://bl.ocks.org/curran/015402cce2caa074551e) - This program makes a live updating line chart from data in the [Data Canvas - Sense Your City API](http://map.datacanvas.org/#!/data).
+ * <a href="https://github.com/curran/crossCountry"><img src="2015/crossCountry.png"/></a>[Cross Country Trip Map](https://github.com/curran/crossCountry) - A geographically oriented photo show of my cross country trip. Built using Leaflet.
+ * <a href="https://www.youtube.com/watch?v=GxGkHam33Cw"><img src="2015/interactiveDataVis.png"/></a>[Constructing Interactive Data Visualizations](https://www.youtube.com/watch?v=GxGkHam33Cw) - A YouTube talk on my planned data visualization work - [Chiasm](https://github.com/curran/chiasm).
 
 ## 2014 Work
 
