@@ -10,6 +10,7 @@ curran.kelleher@gmail.com
  * [GitHub](https://github.com/curran?tab=repositories)
  * [bl.ocks](http://bl.ocks.org/curran)
  * [Resume](http://curran.github.com/portfolio/Resume.pdf)
+ * [Ph. D.](https://github.com/curran/phd)
  * [University Transcript](http://curran.github.com/portfolio/UMass Lowell Transcript.pdf)
  * [Photos on Flickr](https://www.flickr.com/photos/10604632@N02/sets/)
 
