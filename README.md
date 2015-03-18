@@ -15,11 +15,13 @@ curran.kelleher@gmail.com
 
 ## 2015 Work
 
- * [![](http://bl.ocks.org/curran/raw/cf4b98fff0517ca04667/thumbnail.png)](http://bl.ocks.org/curran/cf4b98fff0517ca04667)
+ * [Chiasm](https://github.com/curran/chiasm) examples [![](http://bl.ocks.org/curran/raw/3f0b1128d74308fc8fe1/thumbnail.png)](http://bl.ocks.org/curran/3f0b1128d74308fc8fe1)
+ [![](http://bl.ocks.org/curran/raw/4ce2ee825811f1c32125/thumbnail.png)](http://bl.ocks.org/curran/4ce2ee825811f1c32125)
+ * [ModelJS](https://github.com/curran/model) examples [![](http://bl.ocks.org/curran/raw/cf4b98fff0517ca04667/thumbnail.png)](http://bl.ocks.org/curran/cf4b98fff0517ca04667)
  [![](http://bl.ocks.org/curran/raw/9e04ccfebeb84bcdc76c/thumbnail.png)](http://bl.ocks.org/curran/9e04ccfebeb84bcdc76c)
  [![](http://bl.ocks.org/curran/raw/3b811f05a0ce39d0d7cd/thumbnail.png)](http://bl.ocks.org/curran/3b811f05a0ce39d0d7cd)
  [![](http://bl.ocks.org/curran/raw/015d34d6d3d562877e51/thumbnail.png)](http://bl.ocks.org/curran/015d34d6d3d562877e51)
- [![](http://bl.ocks.org/curran/raw/015402cce2caa074551e/thumbnail.png)](http://bl.ocks.org/curran/015402cce2caa074551e) [ModelJS](https://github.com/curran/model) examples
+ [![](http://bl.ocks.org/curran/raw/015402cce2caa074551e/thumbnail.png)](http://bl.ocks.org/curran/015402cce2caa074551e) 
  * <a href="https://github.com/curran/crossCountry"><img src="2015/crossCountry.png"/></a>[Cross Country Trip Map](https://github.com/curran/crossCountry) - A geographically oriented photo show of my cross country trip. Built using Leaflet.
  * <a href="https://www.youtube.com/watch?v=GxGkHam33Cw"><img src="2015/interactiveDataVis.png"/></a>[Constructing Interactive Data Visualizations](https://www.youtube.com/watch?v=GxGkHam33Cw) - A YouTube talk on my planned data visualization work - [Chiasm](https://github.com/curran/chiasm).
 
