@@ -5,14 +5,18 @@ Software Engineer @ Alpine Data Labs
 curran.kelleher@gmail.com
 
  * [Twitter](https://twitter.com/currankelleher)
- * [YouTube](https://www.youtube.com/user/currankelleher/videos)
- * [LinkedIn](http://www.linkedin.com/profile/view?id=27871853)
  * [GitHub](https://github.com/curran?tab=repositories)
- * [bl.ocks](http://bl.ocks.org/curran)
+   * [ModelJS](https://github.com/curran/model)
+   * [Chiasm](https://github.com/curran/chiasm)
+   * [Screencasts](https://github.com/curran/screencasts)
+   * [bl.ocks](http://bl.ocks.org/curran)
+ * [Video Lectures on YouTube](https://www.youtube.com/user/currankelleher/videos)
+ * [LinkedIn](http://www.linkedin.com/profile/view?id=27871853)
  * [Resume](http://curran.github.com/portfolio/Resume.pdf)
  * [Ph. D.](https://github.com/curran/phd)
  * [University Transcript](http://curran.github.com/portfolio/UMass Lowell Transcript.pdf)
  * [Photos on Flickr](https://www.flickr.com/photos/10604632@N02/sets/)
+ * [Music on SoundCloud](https://soundcloud.com/curran)
 
 ## 2015 Work
 
