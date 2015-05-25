@@ -1,4 +1,4 @@
-# Curran Kelleher
+
 
 Software Engineer @ Alpine Data Labs
 
@@ -19,8 +19,8 @@ curran.kelleher@gmail.com
  * [Music on SoundCloud](https://soundcloud.com/curran)
 
 ## 2015 Work
- * [![](2015/blocks.png)](http://bl.ocks.org/curran)
- * <a href="https://www.youtube.com/watch?v=8jvoTV54nXw"><img src="2015/D3Thumbnail.png"/></a>[Introduction to D3.js](https://www.youtube.com/watch?v=xN9QxPtK2LM) - This screencast covers how to create data visualizations with D3.js.
+ * [![](2015/blocks.png)](http://bl.ocks.org/curran) [Visualization examples on bl.ocks.org](http://bl.ocks.org/curran)
+ * <a href="https://www.youtube.com/watch?v=8jvoTV54nXw"><img src="2015/introToD3.png"/></a>[Introduction to D3.js](https://www.youtube.com/watch?v=xN9QxPtK2LM) - This screencast covers how to create data visualizations with D3.js.
  * [Published Academic Paper: Reactive Data Visualizations](2015/reactiveVisualizationsPaper.pdf) A paper about using functional reactive programming for interactive data visualization, published at SPIE Visualization and Data Analysis 2015, February 2015, San Francisco, CA.
  * [Chiasm](https://github.com/curran/chiasm) An Open Source plugin architecture for information visualization.
  * [ModelJS](https://github.com/curran/model) A functional reactive programming library for interactive data visualizations.
