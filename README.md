@@ -1,9 +1,10 @@
-
-
 Software Engineer @ Alpine Data Labs
 
 curran.kelleher@gmail.com
 
+ * [Resume](http://curran.github.com/portfolio/Resume.pdf)
+ * [LinkedIn](http://www.linkedin.com/profile/view?id=27871853)
+ * [Ph. D.](https://github.com/curran/phd)
  * [Twitter](https://twitter.com/currankelleher)
  * [GitHub](https://github.com/curran?tab=repositories)
    * [ModelJS](https://github.com/curran/model)
@@ -11,16 +12,14 @@ curran.kelleher@gmail.com
    * [Screencasts](https://github.com/curran/screencasts)
    * [bl.ocks](http://bl.ocks.org/curran)
  * [Video Lectures on YouTube](https://www.youtube.com/user/currankelleher/videos)
- * [LinkedIn](http://www.linkedin.com/profile/view?id=27871853)
- * [Resume](http://curran.github.com/portfolio/Resume.pdf)
- * [Ph. D.](https://github.com/curran/phd)
  * [University Transcript](http://curran.github.com/portfolio/UMass Lowell Transcript.pdf)
  * [Photos on Flickr](https://www.flickr.com/photos/10604632@N02/sets/)
  * [Music on SoundCloud](https://soundcloud.com/curran)
 
 ## 2015 Work
+ * <a href="https://www.youtube.com/watch?v=U4ja6HeBm6s"><img src="2015/jsModules.png"/></a>[Screencast: JavaScript Modules & Build Tools](https://www.youtube.com/watch?v=U4ja6HeBm6s) - A brief tour of the ocean of tools around JavaScript Modules. Covers Browser Globals, Namespaces, UglifyJS, CommonJS, AMD, ES6, Browserify, Webpack, RequireJS, JSPM, Esperanto, Rollup, Gulp, Babel, Traceur, and Make.
  * [![](2015/blocks.png)](http://bl.ocks.org/curran) [Visualization examples on bl.ocks.org](http://bl.ocks.org/curran)
- * <a href="https://www.youtube.com/watch?v=8jvoTV54nXw"><img src="2015/introToD3.png"/></a>[Introduction to D3.js](https://www.youtube.com/watch?v=xN9QxPtK2LM) - This screencast covers how to create data visualizations with D3.js.
+ * <a href="https://www.youtube.com/watch?v=8jvoTV54nXw"><img src="2015/introToD3.png"/></a>[Screencast: Introduction to D3.js](https://www.youtube.com/watch?v=xN9QxPtK2LM) - This screencast covers how to create data visualizations with D3.js.
  * [Published Academic Paper: Reactive Data Visualizations](2015/reactiveVisualizationsPaper.pdf) A paper about using functional reactive programming for interactive data visualization, published at SPIE Visualization and Data Analysis 2015, February 2015, San Francisco, CA.
  * [Chiasm](https://github.com/curran/chiasm) An Open Source plugin architecture for information visualization.
  * [ModelJS](https://github.com/curran/model) A functional reactive programming library for interactive data visualizations.
