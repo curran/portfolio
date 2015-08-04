@@ -18,7 +18,7 @@ curran.kelleher@gmail.com
 
 If you appreciate my Open Source work, please consider supporting me through Gratipay. 
 
-<img src="//img.shields.io/gratipay/currankelleher.svg">
+<img src="http://img.shields.io/gratipay/currankelleher.svg">
 
 ## 2015 Work
  * <a href="https://www.youtube.com/watch?v=U4ja6HeBm6s"><img src="2015/jsModules.png"/></a>[Screencast: JavaScript Modules & Build Tools](https://www.youtube.com/watch?v=U4ja6HeBm6s) - A brief tour of the ocean of tools around JavaScript Modules. Covers Browser Globals, Namespaces, UglifyJS, CommonJS, AMD, ES6, Browserify, Webpack, RequireJS, JSPM, Esperanto, Rollup, Gulp, Babel, Traceur, and Make.
