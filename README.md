@@ -1,4 +1,4 @@
-Founder @ [Datavis Tech Inc](datavis.tech).
+Founder @ [Datavis Tech Inc](http://www.datavis.tech/).
 
 I'm available for hire as a freelancer / consultant! Feel free to reach out at curran.kelleher@gmail.com .
 
@@ -18,7 +18,7 @@ I'm available for hire as a freelancer / consultant! Feel free to reach out at c
 
 ## 2016 Work
 
-* [Introduction to Data Visualization](https://www.youtube.com/watch?v=itNlukt5x18)
+* [Introduction to Data Visualization (YouTube Video)](https://www.youtube.com/watch?v=itNlukt5x18)
 * The Reactive Model Stack (Open Source Projects)
   * [ReactiveModel](https://github.com/curran/reactive-model)
   * [ReactiveFunction](https://github.com/curran/reactive-function)
