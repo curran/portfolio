@@ -16,6 +16,15 @@ I'm available for hire as a freelancer / consultant! Feel free to reach out at c
  * [Photos on Flickr](https://www.flickr.com/photos/10604632@N02/sets/)
  * [Music on SoundCloud](https://soundcloud.com/curran)
 
+## 2016 Work
+
+* [Introduction to Data Visualization](https://www.youtube.com/watch?v=itNlukt5x18)
+* The Reactive Model Stack (Open Source Projects)
+  * [ReactiveModel](https://github.com/curran/reactive-model)
+  * [ReactiveFunction](https://github.com/curran/reactive-function)
+  * [GraphDataStructure](https://github.com/curran/graph-data-structure)
+  * [ReactiveProperty](https://github.com/curran/reactive-property)
+
 ## 2015 Work
  * [Splitting Charts Tutorial Series](https://github.com/curran/screencasts/tree/gh-pages/splittingCharts)
    * [Splitting Charts (Part 1): Stacked & Grouped Bar Charts](https://www.youtube.com/watch?v=6Xynj_pBybc)
