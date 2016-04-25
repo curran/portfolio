@@ -1,6 +1,6 @@
-Software Engineer @ Alpine Data Labs
+Founder @ [Datavis Tech Inc](datavis.tech).
 
-curran.kelleher@gmail.com
+I'm available for hire as a freelancer / consultant! Feel free to reach out at curran.kelleher@gmail.com .
 
  * [Resume](http://curran.github.com/portfolio/Resume.pdf)
  * [LinkedIn](http://www.linkedin.com/profile/view?id=27871853)
@@ -17,6 +17,13 @@ curran.kelleher@gmail.com
  * [Music on SoundCloud](https://soundcloud.com/curran)
 
 ## 2015 Work
+ * [Splitting Charts Tutorial Series](https://github.com/curran/screencasts/tree/gh-pages/splittingCharts)
+   * [Splitting Charts (Part 1): Stacked & Grouped Bar Charts](https://www.youtube.com/watch?v=6Xynj_pBybc)
+   * [Splitting Charts (Part 2) Getting Circular](https://www.youtube.com/watch?v=dZgLxh_Z86A)
+   * [Splitting Charts (Part 3) - Pie Charts & Friends](https://www.youtube.com/watch?v=QCiA4fD8-Hs)
+   * [Splitting Charts (Part 4) - Small Multiples Pies](https://www.youtube.com/watch?v=XN2hfpGqX4o)
+   * [Splitting Charts (Part 5) - Multi-Line Charts](https://www.youtube.com/watch?v=GzH7qUVIkE8)
+   * [Splitting Charts (Part 6) - Stacked Area Charts](https://www.youtube.com/watch?v=5H7PSAqZ0Co)
  * <a href="https://www.youtube.com/watch?v=U4ja6HeBm6s"><img src="2015/jsModules.png"/></a>[Screencast: JavaScript Modules & Build Tools](https://www.youtube.com/watch?v=U4ja6HeBm6s) - A brief tour of the ocean of tools around JavaScript Modules. Covers Browser Globals, Namespaces, UglifyJS, CommonJS, AMD, ES6, Browserify, Webpack, RequireJS, JSPM, Esperanto, Rollup, Gulp, Babel, Traceur, and Make.
  * [![](2015/blocks.png)](http://bl.ocks.org/curran) [Visualization examples on bl.ocks.org](http://bl.ocks.org/curran)
  * <a href="https://www.youtube.com/watch?v=8jvoTV54nXw"><img src="2015/introToD3.png"/></a>[Screencast: Introduction to D3.js](https://www.youtube.com/watch?v=xN9QxPtK2LM) - This screencast covers how to create data visualizations with D3.js.
