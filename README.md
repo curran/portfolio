@@ -16,6 +16,12 @@ I'm available for hire as a freelancer / consultant! Feel free to reach out at c
  * [Photos on Flickr](https://www.flickr.com/photos/10604632@N02/sets/)
  * [Music on SoundCloud](https://soundcloud.com/curran)
 
+## 2017 Work
+
+ * [d3-component](https://github.com/curran/d3-component) A lightweight component abstraction for D3.js.
+ * [Campaign Finance Institute data exploration and download tool](https://github.com/cfinst/cfinst.github.io/) An interactive visualization of the Campaign Finance Institute database of campaign finance law, spanning all US States and every other year since 1996.
+ * [josquin-ribbon](https://github.com/sul-cidr/josquin-ribbon) A consulting project done for a music research group at Stanford University.
+
 ## 2016 Work
 
 * [Introduction to Data Visualization (YouTube Video)](https://www.youtube.com/watch?v=itNlukt5x18)
