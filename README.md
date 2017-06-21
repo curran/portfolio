@@ -12,7 +12,7 @@ I'm available for hire as a freelancer / consultant! Feel free to reach out at c
    * [Screencasts](https://github.com/curran/screencasts)
    * [bl.ocks](http://bl.ocks.org/curran)
  * [Video Lectures on YouTube](https://www.youtube.com/user/currankelleher/videos)
- * [University Transcript](http://curran.github.com/portfolio/UMass Lowell Transcript.pdf)
+ * [University Transcript](http://curran.github.com/portfolio/UMass\ Lowell\ Transcript.pdf)
  * [Photos on Flickr](https://www.flickr.com/photos/10604632@N02/sets/)
  * [Music on SoundCloud](https://soundcloud.com/curran)
 
