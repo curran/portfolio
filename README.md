@@ -1,6 +1,6 @@
 Founder @ [Datavis Tech Inc](http://www.datavis.tech/).
 
-I'm available for hire as a freelancer / consultant! Feel free to reach out at curran.kelleher@gmail.com .
+I'm available for hire as a freelancer / consultant! Feel free to reach out at curran@datavis.tech .
 
  * [Resume](http://curran.github.com/portfolio/Resume.pdf)
  * [LinkedIn](http://www.linkedin.com/profile/view?id=27871853)
@@ -18,6 +18,8 @@ I'm available for hire as a freelancer / consultant! Feel free to reach out at c
 
 ## 2017 Work
 
+ * [![image](https://user-images.githubusercontent.com/68416/29225768-349eada2-7eed-11e7-8a8d-7217a30fd1b7.png)](https://www.youtube.com/watch?v=jLWZaFzPS6Q)
+ * [d3-area-label](https://github.com/curran/d3-area-label)
  * [d3-component](https://github.com/curran/d3-component) A lightweight component abstraction for D3.js.
  * [Campaign Finance Institute data exploration and download tool](https://github.com/cfinst/cfinst.github.io/) An interactive visualization of the Campaign Finance Institute database of campaign finance law, spanning all US States and every other year since 1996.
  * [josquin-ribbon](https://github.com/sul-cidr/josquin-ribbon) A consulting project done for a music research group at Stanford University.
