@@ -1,6 +1,3 @@
-Founder @ [Datavis Tech Inc](http://www.datavis.tech/).
-
-I'm available for hire as a freelancer / consultant! Feel free to reach out at curran@datavis.tech .
 
  * [Resume](http://curran.github.com/portfolio/Resume.pdf)
  * [LinkedIn](http://www.linkedin.com/profile/view?id=27871853)
@@ -12,7 +9,7 @@ I'm available for hire as a freelancer / consultant! Feel free to reach out at c
    * [Screencasts](https://github.com/curran/screencasts)
    * [bl.ocks](http://bl.ocks.org/curran)
  * [Video Lectures on YouTube](https://www.youtube.com/user/currankelleher/videos)
- * [University Transcript](http://curran.github.com/portfolio/UMass\ Lowell\ Transcript.pdf)
+ * [University Transcript](https://github.com/curran/portfolio/blob/gh-pages/UMass%20Lowell%20Transcript.pdf)
  * [Photos on Flickr](https://www.flickr.com/photos/10604632@N02/sets/)
  * [Music on SoundCloud](https://soundcloud.com/curran)
 
